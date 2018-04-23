@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SmartPatient</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha (optional)</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_navbar">SmartPatient</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Sair</string>
+    <string name="title_activity_menu">SmartPatient</string>
+    <string name="title_activity_exercicio">Exercicio</string>
+    <string name="title_activity_alimentacao">Alimentação</string>
+    <string name="title_activity_medicamento">Medicamento</string>
+    <string name="title_activity_dica">Dica</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sobre_titulo">Dr. Jeferson</string>
+    <string name="sobre_mensagem">Segunda dia 29/06/2015 as 15h</string>
+
+</resources>

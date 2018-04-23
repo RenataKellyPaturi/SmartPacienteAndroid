@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/nav_alimentacao"
+            android:title="Alimentação" />
+
+        <item
+            android:id="@+id/nav_consulta"
+            android:title="Consulta" />
+
+        <item
+            android:id="@+id/nav_dica"
+            android:title="Dica" />
+
+        <item
+            android:id="@+id/nav_exercicio"
+            android:title="Exercício" />
+
+        <item
+            android:id="@+id/nav_mendicamento"
+            android:title="Medicamento" />
+
+        <item
+            android:id="@+id/nav_mensagens"
+            android:title="Mensagens" />
+
+
+</menu>
